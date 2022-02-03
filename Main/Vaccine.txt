@@ -1,0 +1,5 @@
+   Pfizer                     PF                   USA                     2                   50.00                       1.3000
+   Sinovac                    SV                   CHINA                   2                   18.80                       0.9000
+   AstraZeneca                AZ                   UK                      2                   10.00                       0.6000
+   SputnikV                   SP                   RUSSIA                  2                   10.00                       0.9000
+   CanSinoBio                 CS                   CHINA                   1                   10.90                       2.1000
